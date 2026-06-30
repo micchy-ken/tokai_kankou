@@ -19,6 +19,8 @@ export interface EventItem {
   price: string;
   access: string;
   tel?: string;
+
+  
   recommendedTime?: string;
 }
 
