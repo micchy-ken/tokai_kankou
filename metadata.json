@@ -1,0 +1,6 @@
+{
+  "name": "東海週末イベント検索",
+  "description": "愛知・岐阜・静岡・長野の4県の週末観光案内・グルメ・酒・イベントを検索し、地図上で位置を確認できるアプリです。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
